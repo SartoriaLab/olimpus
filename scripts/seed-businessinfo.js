@@ -52,10 +52,10 @@ var businessInfo = {
   googleMapsLink: 'https://www.google.com/maps/search/?api=1&query=Av.%20Saverio%20Salvagni%2C%20150%20-%20Jardim%20Bela%20Vista%2C%20Taquaritinga%20-%20SP%2C%2015905-028',
   googleMapsEmbed: 'https://www.google.com/maps?q=Av.%20Saverio%20Salvagni,%20150%20-%20Jardim%20Bela%20Vista,%20Taquaritinga%20-%20SP,%2015905-028&output=embed',
   hours: {
-    funcionamento: 'Todos os dias',
+    funcionamento: 'Seg a Sex 05h30–22h · Sáb 08h–12h · Dom fechado',
     almoco: '',
     jantar: '',
-    completo: 'Seg a Sex 06h–22h · Sáb e Dom em horários especiais'
+    completo: 'Seg a Sex 05h30–22h · Sáb 08h–12h · Domingos e feriados: fechado'
   }
 };
 
