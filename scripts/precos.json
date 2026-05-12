@@ -17,7 +17,7 @@
     { "id": "natacao", "m1": "Musculação 3x", "m2": "Natação 2x", "preco": 245, "fam": 235 }
   ],
   "aulas": [
-    { "id": "spin", "titulo": "Spinning / Pump / Circuito / Zumba", "sub": "2x na semana", "preco": 130, "fam": 125 },
+    { "id": "spin", "titulo": "Spinning / Pump / Circuito", "sub": "2x na semana", "preco": 130, "fam": 125 },
     { "id": "hidro", "titulo": "Hidroginástica", "sub": "2x na semana", "preco": 150, "fam": 145 },
     { "id": "natacao", "titulo": "Natação", "sub": "2x na semana", "preco": 170, "fam": 165 }
   ],
